@@ -1,5 +1,3 @@
-22
-test
+seminar 3
 
-
-local rep
+remote rep
